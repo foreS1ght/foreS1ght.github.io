@@ -2,16 +2,16 @@ url: https://fores1ght.github.io/
 baseurl: https://fores1ght.github.io/
 
 # Site settings
-title: foreSight Met
+title: 
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Steve Duggan
+- name: Elinor Sterrett
   pic: 1
-  position: Lead Designer
+  position: Founder, Managing Director
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Elinor Sterrett
+- name: Steve Duggan
   pic: 2
-  position: Lead Marketer
+  position: Founder, Director, Manager Business Development
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Leo Peach
   pic: 3
-  position: Lead Developer
+  position: Founder, Director, Manager Science & Technology
   social:
     - title: twitter
       url: #
