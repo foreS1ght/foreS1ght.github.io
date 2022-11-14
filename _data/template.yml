@@ -3,7 +3,7 @@ color:
   primary: 0d675f
   secondary: 24a4da   
   secondary-dark: 063959
-  muted: 777
+  muted: 063959
 
 # Font Families
 font:
