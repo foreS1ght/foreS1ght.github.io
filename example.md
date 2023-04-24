@@ -1,5 +1,5 @@
 ---
 title: example
-layout: template
+layout: default
 filename: example.md
 --- 
